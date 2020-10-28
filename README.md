@@ -1,0 +1,2 @@
+# GeneticAlgoritymTry
+Genetic Algoritm Tried
